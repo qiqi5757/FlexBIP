@@ -7,7 +7,7 @@
 [🌟Guide](https://github.com/qiqi5757/FlexBIP#-quick-start-guide) |
 
  <p align="center" width="100%">
-  <img src='figures/The%20framework%20of%20FlexBIP.pngg' width="100%">
+  <img src='figures/FlexBIP.png' width="100%">
 </p>
 
 ## 📑 Datasets
