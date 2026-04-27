@@ -31,6 +31,25 @@
 | gene-disease  | http://www.disgenet.org/                 | https://github.com/kexinhuang12345/SkipGNN|
 | miRNA-disease | http://www.cuilab.cn/hmdd                | https://github.com/a1622108/MDA-CF        |
 
+### Dataset topological features
+
+| Dataset | # Source Nodes | # Target Nodes | # Total Edges | # Connected Edges | Connected Edge Ratio | Max Degree |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| PPI01 | 1,553 | 1,553 | 2,411,809 | 26,640 | 0.01105 | 364 |
+| PPI02 | 2,674 | 2,674 | 7,150,276 | 14,150 | 0.00198 | 140 |
+| PPI03 | 5,604 | 5,604 | 31,404,816 | 46,644 | 0.00149 | 534 |
+| DDI01 | 1,700 | 1,670 | 2,839,000 | 1,008,936 | 0.35538 | 1,185 |
+| DDI02 | 604 | 604 | 364,816 | 57,778 | 0.15838 | 364 |
+| DDI03 | 1,514 | 1,514 | 2,292,196 | 97,028 | 0.04233 | 443 |
+| DTI01 | 1,384 | 5,763 | 7,975,992 | 99,884 | 0.01252 | 580 |
+| DTI02 | 791 | 989 | 782,299 | 10,254 | 0.01311 | 132 |
+| DTI03 | 5,018 | 2,325 | 11,666,850 | 30,280 | 0.00259 | 584 |
+| DTA01 | 1,184 | 624 | 738,816 | / | / | / |
+| DTA02 | 68 | 442 | 30,056 | / | / | / |
+| circRNA-drug | 271 | 218 | 59,078 | 8,268 | 0.13995 | 101 |
+| drug-gene | 425 | 11,006 | 4,677,550 | 65,298 | 0.01396 | 2,546 |
+| miRNA-disease | 917 | 792 | 726,264 | 29,100 | 0.04007 | 384 |
+| gene-disease | 9,413 | 10,370 | 97,612,810 | 163,492 | 0.00168 | 2,037 |
 ## 🚀🚀🚀Get Started
 
 This guide will help you quickly configure and run the FlexBIP project.
