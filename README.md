@@ -53,6 +53,9 @@
 
 ### Experimental Results
 <p align="center">
+   <img src='figures/result_2.tif' width="100%">
+</p>
+<p align="center">
    <img src='figures/result.tif' width="100%">
 </p>
 
