@@ -50,6 +50,14 @@
 | drug-gene | 425 | 11,006 | 4,677,550 | 65,298 | 0.01396 | 2,546 |
 | miRNA-disease | 917 | 792 | 726,264 | 29,100 | 0.04007 | 384 |
 | gene-disease | 9,413 | 10,370 | 97,612,810 | 163,492 | 0.00168 | 2,037 |
+
+### Experimental Results
+<p align="center">
+   <img src='figures/result.tif' width="100%">
+</p>
+
+
+
 ## 🚀🚀🚀Get Started
 
 This guide will help you quickly configure and run the FlexBIP project.
@@ -101,7 +109,7 @@ Notably, the model also features **multi-task** adaptability, **automatically** 
 -----
 ## 🏆🏆🏆 Showcase
 <p align="center">
-   <img src='figures/visualizing surface.jpg' width="100%">
+   <img src='figures/visualizing surface.tif' width="100%">
 <br><br>
 <b>Figure 1: </b>a, Presents the surface interaction model of the protein (Q9Y6M4) and the drug (CHEMBL408982). b, The right side zooms in on the core interaction region, presenting the spatial interaction pattern between the drug molecule CHEMBL408982 (methyl carbon) and the protein residue (ASP-300, corresponding to site 300 of the Q9Y6M4 protein). 
 </p>
